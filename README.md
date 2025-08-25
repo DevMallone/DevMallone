@@ -1,5 +1,7 @@
 # 🚀 Sobre Mim:
-🚀 | Web Developer<br>🚀 | CSS / HTML / JS<br>🚀 | Beyond Infinite
+Atuo como desenvolvedor Front-end, especializado em HTML, CSS e JavaScript para a criação de interfaces eficientes e responsivas. Tenho experiência em projetos de pequeno e médio porte, com foco em boas práticas de código e acessibilidade. Atualmente, estou ampliando meus conhecimentos para o Back-end (PHP), visando a formação como desenvolvedor full-stack.
+
+🚀 Developer Front-end Júnior
 
 
 ## 🌐 Redes Sociais:
