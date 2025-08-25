@@ -45,7 +45,8 @@ Atualmente, estou ampliando meus conhecimentos em **PHP e Back-end**, com o obje
 ## ✨ Visitantes  
 [![](https://visitcount.itsvg.in/api?id=DevMallone&icon=0&color=0)](https://visitcount.itsvg.in)  
 
----
-
-⭐ **"Código limpo, design moderno e evolução constante."**  
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmallone/devmallone/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmallone/devmallone/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devmallone/devmallone/output/github-contribution-grid-snake.svg">
+</picture>
