@@ -1,14 +1,24 @@
-.github/workflows
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&duration=5001&pause=2000&color=02E492&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG">
+  </a>
+</div>
 
+<h1 align="left">Mallone | Desenvolvedor Front-end Júnior</h1>
 
-snake.yml
+#
 
+<picture align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmallone/devmallone/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmallone/devmallone/output/github-contribution-grid-snake-dark.svg">
+  <img align="left" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devmallone/devmallone/output/github-contribution-grid-snake.svg">
+</picture>
 
-README.md
+#
 
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
+<h3 align="left">Conecte-se comigo!</h3>
+
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/devmallone/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kaullony-santos/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:kaull.dev@gmail.com)
 
 <br clear="both">
 
@@ -66,33 +76,3 @@ Fork on Github
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=devmallone.devmallone&left_color=darkgreen&right_color=darkturquoise&left_text=visitantes"  />
 
 ###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-Github
-Donate
-Share
-Privacy Policy
-Copy File Content
-Level Up Your README
-Anyone can use templates — but when you know what you’re doing, it shows.
-
-👉 Explore resources that will upgrade your skills — and your README. Start now.
-
-
-Boost Your Dev Career
-Master one of the most sought-after technologies in the world!
-
-Become a Typescript Master
-
-Clean Architecture
-Software Architecture Solutions from Uncle Bob.
-
-Get the book
-
-Explore More Books
-Browse the full list of curated titles to boost your coding skills.
-
-More books
-💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
-Profile Readme Generator
