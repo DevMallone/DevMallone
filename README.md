@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&duration=5001&pause=2000&color=02E492&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG">
 
 # Mallone | Desenvolvedor Front-end Júnior  
-
+-
 ## 🚀 Conecte-se comigo  
 
 <p align="left">
@@ -42,3 +42,5 @@
 
 ## 🎉 Visitantes  
 <img src="https://visitor-badge.laobi.icu/badge?page_id=devmallone.devmallone&left_color=02E492&right_color=000000&left_text=visitantes" />
+
+<img align="center" height="250" src="https://64.media.tumblr.com/85e28b2c1364a2084bd7a6727add810a/bf7dea713bb52297-ac/s1280x1920/0f03a27d7d10f150b8abba46376358eb72e1bd89.gif" />
