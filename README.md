@@ -51,11 +51,12 @@
 ---
 
 ## 📊 Estatísticas  
-<div align="center">
+<div align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devmallone&show_icons=true&theme=radical&title_color=02E492&text_color=fff&icon_color=02E492&bg_color=000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=📈 Estatísticas do GitHub" height="180"/>
   <img src="https://streak-stats.demolab.com?user=devmallone&theme=radical&date_format=j%20M%5B%20Y%5D&background=000000&border=000000&ring=02E492&fire=02E492&currStreakLabel=02E492&sideNums=fff&sideLabels=fff&dates=02E492" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmallone&layout=compact&langs_count=6&theme=radical&title_color=02E492&text_color=fff&bg_color=000000&hide_border=true" height="180" alt="Top Langs"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devmallone&layout=compact&langs_count=6&theme=radical&title_color=02E492&text_color=fff&bg_color=000000&hide_border=true" height="180"/>
 </div>
+
 
 ---
 
