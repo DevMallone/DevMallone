@@ -2,8 +2,6 @@
 
 # Mallone | Desenvolvedor Front-end Júnior  
 
----
-
 ## 🚀 Conecte-se comigo  
 
 <p align="left">
@@ -18,8 +16,6 @@
   </a>
 </p>
 
----
-
 ## 🛠️ Tecnologias  
 
 <p align="left">
@@ -30,16 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </p>
 
----
-
 ## 📊 Estatísticas  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark&title_color=02E492&icon_color=02E492&text_color=fff&bg_color=000000" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&title_color=02E492&text_color=fff&bg_color=000000" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devmallone&show_icons=true&theme=dark&title_color=02E492&icon_color=02E492&text_color=fff&bg_color=000000" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmallone&layout=compact&title_color=02E492&text_color=fff&bg_color=000000" height="180"/>
 </p>
-
----
 
 ## 🐍 Contribuições  
 <picture align="left">
@@ -47,8 +39,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmallone/devmallone/output/github-contribution-grid-snake.svg">
   <img alt="snake gif" src="https://raw.githubusercontent.com/devmallone/devmallone/output/github-contribution-grid-snake.svg">
 </picture>
-
----
 
 ## 🎉 Visitantes  
 <img src="https://visitor-badge.laobi.icu/badge?page_id=devmallone.devmallone&left_color=02E492&right_color=000000&left_text=visitantes" />
