@@ -6,13 +6,10 @@
 ## 🚀 Conecte-se comigo  
 
 <p align="left">
-  <a href="https://instagram.com/seuusuario" target="_blank">
+  <a href="https://www.instagram.com/mallone.lab/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-8767ff?style=for-the-badge&logo=instagram&logoColor=fff"/>
   </a>
-  <a href="https://linkedin.com/in/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8767ff?style=for-the-badge&logo=linkedin&logoColor=fff"/>
-  </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:mallone.lab@gmail.com">
     <img src="https://img.shields.io/badge/Email-8767ff?style=for-the-badge&logo=gmail&logoColor=fff"/>
   </a>
 </p>
