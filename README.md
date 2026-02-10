@@ -7,13 +7,13 @@
 
 <p align="left">
   <a href="https://instagram.com/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-02E492?style=for-the-badge&logo=instagram&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/Instagram-c689ff?style=for-the-badge&logo=instagram&logoColor=fff"/>
   </a>
   <a href="https://linkedin.com/in/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-02E492?style=for-the-badge&logo=linkedin&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/LinkedIn-c689ff?style=for-the-badge&logo=linkedin&logoColor=fff"/>
   </a>
   <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-02E492?style=for-the-badge&logo=gmail&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/Email-c689ff?style=for-the-badge&logo=gmail&logoColor=fff"/>
   </a>
 </p>
 
