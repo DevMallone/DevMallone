@@ -27,13 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </p>
 
-## 📊 Estatísticas  
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmallone&show_icons=true&theme=dark&title_color=02E492&icon_color=02E492&text_color=fff&bg_color=000000" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmallone&layout=compact&title_color=02E492&text_color=fff&bg_color=000000" height="180"/>
-</p>
-
 ## 🐍 Contribuições  
 <picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmallone/devmallone/output/github-contribution-grid-snake-dark.svg">
@@ -44,4 +37,4 @@
 ## 🎉 Visitantes  
 <img src="https://visitor-badge.laobi.icu/badge?page_id=devmallone.devmallone&left_color=02E492&right_color=000000&left_text=visitantes" />
 
-<img align="center" height="400" src="https://64.media.tumblr.com/85e28b2c1364a2084bd7a6727add810a/bf7dea713bb52297-ac/s1280x1920/0f03a27d7d10f150b8abba46376358eb72e1bd89.gif" />
+<img align="center" height="400" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif" />
